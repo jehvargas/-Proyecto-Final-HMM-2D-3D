@@ -1,0 +1,5 @@
+numpy>=1.24
+PyQt5>=5.15        # o PySide6 / CustomTkinter
+pyqtgraph>=0.13    # para el lienzo 3D
+# Prohibido: hmmlearn, scikit-learn, scipy.stats, torch, tensorflow
+
